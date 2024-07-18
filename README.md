@@ -3,7 +3,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 <p align="left">
-  🔧 Navigating new tech landscapes and developing smart software solutions and agile fixes.<br>
+  🔧 Navigating new tech landscapes, developing smart software solutions and agile fixes.<br>
   🎓 Studying Information Technology.<br>
   💻 I use daily: Flutter, Dart, Firebase.<br>
   🫠 Investigating Frontend Architectures and perfecting my development strategies.<br>
