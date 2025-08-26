@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Priyanshu Ranjan 👋</h1>
-<h3 align="center">🫧 Application Developer | Flutter 🫧</h3>
+<h3 align="center">🫧 Mobile Application Developer 🫧</h3>
 
 <h3 align="left">👨🏻‍💻 About Me</h3>
 <p align="left">
